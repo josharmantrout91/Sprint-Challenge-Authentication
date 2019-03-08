@@ -8,4 +8,4 @@
    bcrypt has an algorithm that hashes the information multiple times, which means an attacker needs to have the hash, know the algorithm used, and how many rounds were used to generate the hash in the first place.
 
 4. What are the three parts of the JSON Web Token?
-   Header, payload, and signature
+   JWTs have a header, payload, and signature
